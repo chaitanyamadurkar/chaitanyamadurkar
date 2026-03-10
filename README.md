@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
-<h3 align="center">Java | Spring Boot | SQL | Backend Developer</h3>
+<h3 align="center">Java | Spring Boot | SQL | Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
