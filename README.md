@@ -43,5 +43,5 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/chaitanyamadurkar
+- 📧 Email: madurkarc34@email.com
